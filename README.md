@@ -1,3 +1,4 @@
+
 # CryptoPals_Python
 
 I had come across Crypto Pals web site a while ago (2015?). Didn't have time to tackle the challenges then, but now I found some time to deal with Python a bit more.
@@ -10,6 +11,9 @@ WINDOWS: GW BASIC, QUICK BASIC, ASSEMBLY, TURBO PASCAL, DELPHI, VISUAL BASIC, VB
 LINUX : C, C++
 
 I've done graphics codes in TP + ASM setup (own libraries).
+
 I've done scientific computations (some CFD, some structural in Fortran and C/C++)
+
 I've done some engineering coding in Matlab scripts, calling some Simulink files...
+
 I enjoy using computer power to generate images, animations, and scientific/engineering results.
