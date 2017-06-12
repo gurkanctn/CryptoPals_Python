@@ -14,6 +14,6 @@ I've done graphics codes in TP + ASM setup (own libraries).
 
 I've done scientific computations (some CFD, some structural in Fortran and C/C++)
 
-I've done some engineering coding in Matlab scripts, calling some Simulink files...
+I've done engineering coding in Matlab scripts, and did automatic/batch simulations of Simulink models...
 
 I enjoy using computer power to generate images, animations, and scientific/engineering results.
