@@ -1,7 +1,8 @@
-
 # CryptoPals_Python
 
-I had come across Crypto Pals web site a while ago (2015?). Didn't have time to tackle the challenges then, but now I found some time to deal with Python a bit more.
+I had come across Crypto Pals web site a while ago (2015?). https://cryptopals.com/
+
+I didn't have time to tackle the challenges then, but now I found some time to deal with Python a bit more.
 
 #Why Python?
 I'm trying to learn a new language. (I have the following background in computer programming:
